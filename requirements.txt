@@ -2,7 +2,7 @@ wheel
 django
 pandas
 numpy
-sklearn
+scikit-learn
 gunicorn
 whitenoise
 fastparquet
