@@ -1,0 +1,9 @@
+wheel
+django
+pandas
+numpy
+sklearn
+gunicorn
+whitenoise
+fastparquet
+pyarrow
