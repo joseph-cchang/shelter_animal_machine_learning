@@ -1,12 +1,20 @@
 
 # This is HW 2.1 Contribute to Open Source 
 Refer to sample_submission.csv for the dataset.
+
 Refer to requirement.txt to see libraries used.
+
 Refer to examples/sentiment_analysis.py for the code.
 
 
 
-# Shelter Animal Outcomes - A Machine Learning Project #
+
+
+
+
+
+
+## Shelter Animal Outcomes - A Machine Learning Project 
 Authors: Danielle Adler, Alla Hale, John Pette
 
 This machine learning project predicted shelter animal outcomes using Python, based on a data set from a former Kaggle competition. The project used pandas to refine the unbalanced data, matplotlib and pandas for exporatory data analysis (EDA), and scikit-learn to run machine learning algorithms (including logistic regression, decision trees, random forest, XGBoost, and Multinomial Naive Bayes).
