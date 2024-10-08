@@ -1,9 +1,4 @@
-wheel
-django
 pandas
 numpy
 scikit-learn
-gunicorn
-whitenoise
-fastparquet
-pyarrow
+
