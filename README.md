@@ -1,3 +1,11 @@
+
+# This is HW 2.1 Contribute to Open Source 
+Refer to sample_submission.csv for the dataset.
+Refer to requirement.txt to see libraries used.
+Refer to examples/sentiment_analysis.py for the code.
+
+
+
 # Shelter Animal Outcomes - A Machine Learning Project #
 Authors: Danielle Adler, Alla Hale, John Pette
 
